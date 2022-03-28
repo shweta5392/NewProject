@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">NewProject</string>
+
+    <!--Registration-->
+    <string name="phone_no">
+        <b>ENTER YOUR PHONE NUMBER</b>
+        </string>
+    <string name="text_to_display">
+        Use the phone number to register or login  <b>PPAY</b>
+    </string>
+
+    <!--Verification Code-->
+    <string name="verification_code">
+        <b>VERIFICATION CODES OTP</b>
+        </string>
+    <string name="textNumber">
+        A verification code has been sent to
+    </string>
+    <string name="send_otp_again">
+        <u>Send Again OTP</u>
+    </string>
+
+    <string name="change_number">
+        <u>Change Phone Number</u>
+    </string>
+
+    <!--Password Creation-->
+    <string name="pass_create">
+        <b>CREATE A PASSWORD</b>
+        </string>
+    <string name="text_createpass">
+        Create a password with 6 numbers to safeguard your PPAY
+    </string>
+
+    <string name="forgot_pass">
+        <u>Forget Password?</u>
+    </string>
+
+    <string name="text">login <b>PPAY</b></string>
+    <string name="terms_conditions">I have read and agree to <br>\nthe terms of use of <b>PPAY</b> </br></string>
+    <string name="heading1">Absolute Safety</string>
+    <string name="heading2">Various Services</string>
+    <string name="heading3">Easy Deposite And Withdrawl</string>
+    <string name="heading4">Quick Money Transfer</string>
+
+    <string name="data">Multi-storey security,international standard</string>
+    <string name="data1">Consumer Loan Payment,pay bills and many other services</string>
+    <string name="data2">Multi-storey security,international standard</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+
+
+</resources>
